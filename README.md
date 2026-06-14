@@ -1,4 +1,23 @@
-# Exploratory Data Analysis (EDA) on Iris Dataset
+## Task 1: Web Scraping
+
+Objective:
+To collect data from an online source using Python.
+
+Tools Used:
+- Python
+- Pandas
+- Google Colab
+
+Process:
+1. Connected to an online dataset.
+2. Retrieved data from the web source.
+3. Loaded the data into a Pandas DataFrame.
+4. Displayed and analyzed the dataset.
+5. Saved the dataset as a CSV file.
+6. Created a simple visualization.
+
+Conclusion:
+Successfully extracted data from a web source and converted it into a structured dataset for analysis and visualization.# Exploratory Data Analysis (EDA) on Iris Dataset
 
 This project was completed as part of the CodeAlpha Data Analytics Internship.
 
