@@ -18,9 +18,9 @@ Process:
 
 Conclusion:
 Successfully extracted data from a web source and converted it into a structured dataset for analysis and visualization.# Exploratory Data Analysis (EDA) on Iris Dataset
-
 This project was completed as part of the CodeAlpha Data Analytics Internship.
 
+## Task 2: EDA
 Tools Used:
 - Python
 - Pandas
@@ -36,6 +36,8 @@ Tasks Performed:
 
 Conclusion:
 The Iris dataset contains 150 records and 4 features. No missing values were found, and visualizations were created to understand the data distribution.
+
+## Task 3: EDA
 Data Visualization:
 - Histogram
 - Bar Chart
