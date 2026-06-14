@@ -17,3 +17,8 @@ Tasks Performed:
 
 Conclusion:
 The Iris dataset contains 150 records and 4 features. No missing values were found, and visualizations were created to understand the data distribution.
+Data Visualization:
+- Histogram
+- Bar Chart
+- Scatter Plot
+- Box Plot
