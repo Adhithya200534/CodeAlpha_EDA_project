@@ -1,45 +1,106 @@
-## Task 1: Web Scraping
+# CodeAlpha Data Analytics Internship Projects
 
-Objective:
-To collect data from an online source using Python.
+This repository contains the tasks completed as part of the CodeAlpha Data Analytics Internship.
 
-Tools Used:
+## Task 1: Web Scraping (Iris Dataset Collection)
+
+### Objective
+To collect the Iris dataset from an online source using Python.
+
+### Tools Used
 - Python
 - Pandas
 - Google Colab
 
-Process:
-1. Connected to an online dataset.
-2. Retrieved data from the web source.
-3. Loaded the data into a Pandas DataFrame.
-4. Displayed and analyzed the dataset.
-5. Saved the dataset as a CSV file.
-6. Created a simple visualization.
+### Process
+1. Connected to an online CSV source.
+2. Retrieved the Iris dataset from the web.
+3. Loaded the dataset into a Pandas DataFrame.
+4. Verified the dataset structure.
+5. Saved the dataset for further analysis.
 
-Conclusion:
-Successfully extracted data from a web source and converted it into a structured dataset for analysis and visualization.# Exploratory Data Analysis (EDA) on Iris Dataset
-This project was completed as part of the CodeAlpha Data Analytics Internship.
+### Conclusion
+Successfully collected the Iris dataset from an online source and prepared it for analysis and visualization.
 
-## Task 2: EDA
-Tools Used:
+---
+
+## Task 2: Exploratory Data Analysis (EDA)
+
+### Objective
+To explore and understand the Iris dataset using statistical analysis techniques.
+
+### Tools Used
 - Python
 - Pandas
+- Google Colab
+
+### Process
+1. Loaded the Iris dataset.
+2. Examined dataset structure and data types.
+3. Generated statistical summaries.
+4. Checked for missing values.
+5. Identified key insights from the dataset.
+
+### Conclusion
+The Iris dataset contains 150 records and no missing values. Statistical analysis was successfully performed to understand the dataset characteristics.
+
+---
+
+## Task 3: Data Visualization
+
+### Objective
+To visualize the Iris dataset using graphical representations.
+
+### Tools Used
+- Python
 - Matplotlib
 - Google Colab
 
-Tasks Performed:
-- Data Loading
-- Data Exploration
-- Statistical Analysis
-- Missing Value Analysis
-- Data Visualization
-
-Conclusion:
-The Iris dataset contains 150 records and 4 features. No missing values were found, and visualizations were created to understand the data distribution.
-
-## Task 3: EDA
-Data Visualization:
+### Visualizations Created
 - Histogram
 - Bar Chart
 - Scatter Plot
 - Box Plot
+
+### Conclusion
+Data visualizations helped in understanding the distribution and relationships between different Iris flower measurements.
+
+---
+
+## Task 4: Sentiment Analysis
+
+### Objective
+To analyze text reviews and classify them as Positive, Negative, or Neutral.
+
+### Tools Used
+- Python
+- Pandas
+- TextBlob
+- Matplotlib
+
+### Process
+1. Created a review dataset.
+2. Applied sentiment analysis using TextBlob.
+3. Classified reviews into Positive, Negative, and Neutral categories.
+4. Visualized sentiment distribution using a bar chart.
+
+### Conclusion
+Successfully analyzed customer reviews and identified sentiment patterns using Natural Language Processing techniques.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- TextBlob
+- Google Colab
+- GitHub
+
+## Repository Structure
+
+- `CodeAlpha_WebScraping_Iris.ipynb`
+- `CodeAlpha_EDA_DataVisualization.ipynb`
+- `CodeAlpha_SentimentAnalysis.ipynb`
+- `README.md`
